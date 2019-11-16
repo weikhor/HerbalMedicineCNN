@@ -1,8 +1,8 @@
 # HerbalMedicineCNN
 
-# Mid-Infrared Spectroscopic Fingerprinting and Discrimination of Traditional Herbal Medicine via Multivariate Analysis and Machine Learning 
+### Mid-Infrared Spectroscopic Fingerprinting and Discrimination of Traditional Herbal Medicine via Multivariate Analysis and Machine Learning 
 
-# To discriminate the types of plants using artificial intelligence.
+### Purpose: To discriminate the types of plants using artificial intelligence.
 
 # Multivariate Analysis
 ![alt text](https://github.com/weikhor/HerbalMedicineCNN/blob/master/math.PNG)

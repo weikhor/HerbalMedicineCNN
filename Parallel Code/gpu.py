@@ -1,3 +1,6 @@
+###The script consists of code of synchronous and asynchronous equations .
+###The code is implemented in parallel process. 
+
 from __future__ import division
 from numba import cuda
 import numpy as np
